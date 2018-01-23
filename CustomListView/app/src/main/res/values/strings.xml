@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+
+    <string-array name="title">
+        <item>Apple</item>
+        <item>Mircrosoft</item>
+        <item>facebook</item>
+        <item>google</item>
+        <item>Walmart</item>
+        <item>Goldman Sachs</item>
+        <item>Dell</item>
+        <item>Asus</item>
+        <item>Yahoo</item>
+        <item>Samsung</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>description1</item>
+        <item>description2</item>
+        <item>description3</item>
+        <item>description4</item>
+        <item>description5</item>
+        <item>description6</item>
+        <item>description7</item>
+        <item>description8</item>
+        <item>description9</item>
+        <item>description10</item>
+    </string-array>
+
+</resources>

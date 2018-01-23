@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CustomGird View</string>
+    <string-array name="names">
+        <item>Home 1</item>
+        <item>Home 2</item>
+        <item>Home 3</item>
+        <item>Home 4</item>
+        <item>Home 5</item>
+        <item>Home 6</item>
+        <item>Home 7</item>
+        <item>Home 8</item>
+        <item>Home 9</item>
+        <item>Home 10</item>
+    </string-array>
+</resources>
