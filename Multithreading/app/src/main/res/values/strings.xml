@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Multithreading</string>
+    <string-array name="title">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+    </string-array>
+
+    <string-array name="imageurl">
+        <item>https://scontent-bom1-1.cdninstagram.com/vp/7c798374e8fdd3d0e4fead42ae6ef507/5B463813/t51.2885-15/e35/28152877_1517738518343818_6547015131161690112_n.jpg</item>
+        <item>https://scontent-bom1-1.cdninstagram.com/vp/15ab7126d3429ea0e8490cc5a4869fcb/5B12E252/t51.2885-15/e35/28152548_1026973817450820_2191565942490660864_n.jpg</item>
+        <item>https://scontent-bom1-1.cdninstagram.com/vp/5172d3446cef5012939f8ac91dba2ac7/5B0C4F4D/t51.2885-15/e35/27893016_222457998314250_2706968116864221184_n.jpg</item>
+    </string-array>
+
+</resources>
