@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10sp"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ravindra"
+        android:textColor="#2f3338"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/Branch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CSE"
+        android:textColor="#28cc54"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/Phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="8239334474"
+        android:textColor="#ccbe27"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/Email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="rmeena840@gmail.com"
+        android:textColor="#e0772c"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/Age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="22"
+        android:textColor="#350707"
+        android:textSize="20sp" />
+    
+</LinearLayout>
